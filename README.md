@@ -4,8 +4,8 @@
 <h2>Как установить
 <h4>
     <ol>
-        <li>Установить расширения <b style='color: yellow;'>User JavaScript and CSS</b> (или любое расширение, позволяющее встраивать скрипт) на браузер <i style='color: aqua;'>https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=ru&utm_source=ext_sidebar</i><br><br><img src='./Images/1.png' width=500><br><br></li>
-        <li>Зайти в расширение<br><br><img src='./Images/2.png' width=500><br><br></li>
+        <li>Установить расширения <b style='color: yellow;'>User JavaScript and CSS</b> (или любое расширение, позволяющее встраивать скрипт) на браузер <i style='color: aqua;'>https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=ru&utm_source=ext_sidebar</i><br><br><img src='./Images/1.png'><br><br></li>
+        <li>Зайти в расширение<br><br><img src='./Images/2.png'><br><br></li>
         <li>Добавить url паттерн <i style='color: aqua;'>https://vk.com/*</i><br><br><img src='./Images/3.png'><br><br></li>
         <li>Добавить в расширении модуль <b style='color: yellow;'>SweetAlert2</b> <i style='color: aqua;'>https://cdn.jsdelivr.net/npm/sweetalert2@11.14.5/dist/sweetalert2.min.js</i><br><br><img src='./Images/4.png'><br><br></li>
         <li>Скопировать код из <i style='color: aqua;'>script.js</i> и вставить в поле для JavaScript кода<br><br><img src='./Images/5.png'><br><br></li>
